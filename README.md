@@ -1,3 +1,2 @@
 # Snippets-Python
-** These are sample code bases for Pythong programming **
-
+These are sample code bases for Python programming
